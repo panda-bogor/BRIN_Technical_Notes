@@ -1,0 +1,33 @@
+
+# PlatformIO
+**/.pio/
+**/.pioenvs/
+**/.piolibdeps/
+**/.vscode/.browse.c_cpp.db*
+
+# Python
+**/__pycache__/
+**/.venv/
+*.pyc
+
+# Temporary files
+*.tmp
+*.bak
+*~
+Thumbs.db
+.DS_Store
+
+# Local environment and credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# KiCad temporary and backup files
+*-backups/
+*.kicad_prl
+*.lck
+*-rescue.*
+_autosave-*
+fp-info-cache
