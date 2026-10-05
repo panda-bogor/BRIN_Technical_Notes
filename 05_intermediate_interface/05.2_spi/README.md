@@ -1,6 +1,5 @@
 # 05.2 — Pengujian SPI W25Qxx: Read JEDEC ID
 
-**Pending Hardware Verification — BELUM DIUJI SECARA FISIK.** Source code, konfigurasi, dan wiring merupakan rancangan pengujian. Build PlatformIO, upload, level tegangan, serta hasil JEDEC ID belum diverifikasi pada hardware.
 
 ## Tujuan
 
