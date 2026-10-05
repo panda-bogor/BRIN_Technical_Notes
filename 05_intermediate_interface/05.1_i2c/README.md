@@ -1,7 +1,5 @@
 # 05.1 — Pengujian LCD 16x2 melalui I2C
 
-**Status: BELUM DIUJI SECARA FISIK.** Kode merupakan rancangan pengujian, bukan laporan hasil eksperimen. Build, upload, alamat backpack, dan hasil tampilan perlu diverifikasi pada perangkat nyata.
-
 ## Tujuan
 
 Menguji komunikasi Arduino UNO (ATmega328P) dengan LCD karakter 16x2 melalui backpack PCF8574. Dua halaman berganti setiap 2 detik menggunakan `millis()`, tanpa `delay()` untuk penjadwalan di `loop()`.
